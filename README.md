@@ -5,4 +5,4 @@ I am currently a second year student at the University of Glasgow, en-route to g
 <!--
 **harshkheskani/harshkheskani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-[![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkheskani&count_private=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkheskani&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
